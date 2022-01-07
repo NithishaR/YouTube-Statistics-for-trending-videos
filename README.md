@@ -1,0 +1,2 @@
+# YouTube-Statistics-for-trending-videos
+YouTube should consider these statistics to understand what are the major factors which are involved for the video to be in trending status. YouTube has given multiple factors being responsible for the video to be trending status and we can narrow the filter to minimal categories which would help the video/content creators to ensure that their video is being reached out to wide audience.
